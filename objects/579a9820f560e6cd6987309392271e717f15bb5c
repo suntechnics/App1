@@ -1,0 +1,9 @@
+[map "966510dc-bf3a-3ff2-9e0f-4fc01c9ac9c9"]
+	excludePath = *.cc\n*.h
+	object = 49ed00a6ece18a4fb1ca97daf13ad1f0197cd6c8
+	type = include
+[map "b6e4bbe7-d595-3c27-834d-ea91fb468b39"]
+	excludePath = *.cc\n*.h
+	object = 7bb1eadb8778db7305bfe7edd4017f93fc9b67d3
+	path = Lib2node_excl
+	type = include + expand module

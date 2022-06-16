@@ -7,3 +7,7 @@
 	object = c4bc0a996803519c588c96950f00352b88795c9f
 	path = Lib2node_excl
 	type = include + expand module
+[map "efcf8b20-e836-3864-9549-2ad173279ef3"]
+	excludePath = *.cc\n*.h
+	object = 7504d2620dff4bf4c9e240548a7d2a62b928b98b
+	type = include
