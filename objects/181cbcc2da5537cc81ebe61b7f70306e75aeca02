@@ -1,0 +1,12 @@
+[map "75575f3c-9c31-3a4a-95e8-7b54d16dfa2d"]
+	excludePath = *.cc\n*.h
+	object = 522da79459f5cf5ae1a4c05bc741c29faa215838
+	type = include
+[map "4b09a8bc-2f4d-3de1-a437-3ba4e2b4b44d"]
+	excludePath = *.cc\n*.h
+	object = 181cbcc2da5537cc81ebe61b7f70306e75aeca02
+	type = include
+[map "044e3a1b-c8c4-3743-aec6-229a725c0a3b"]
+	excludePath = *.cc\n*.h
+	object = 181cbcc2da5537cc81ebe61b7f70306e75aeca02
+	type = exclude

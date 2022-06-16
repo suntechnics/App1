@@ -1,0 +1,14 @@
+[module "e1972eb6-b2e8-37c9-90d4-37f5c4b07493"]
+	conflict = request-pull
+	excludePath = *.cc\n*.h
+	path = Lib2node_excl
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/new sync refs/heads/main
+	url = agnostic://ght/451929163
+[map "913cb13e-308b-3410-9268-c29eb1b39366"]
+	excludePath = *.cc\n*.h
+	object = 2a9afb0519fc2b257e089d51f1282f6dd255738a
+	path = Lib2node_excl
+	stage = sync
+	type = extract module + exclude
