@@ -5,3 +5,7 @@
 	object = c735b0093ef0c93f3b183fc929dba56095ef992c
 	path = Lib1
 	type = expand module
+[map "617cf51a-948d-3874-b387-d23fed4e7174"]
+	object = 7bac568fba5ff7e2361e352a69193da513384e7d
+	path = module
+	type = expand module
